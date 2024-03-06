@@ -1,0 +1,21 @@
+.firstClass {
+    color:green;
+}
+.navigation-bar {
+    background-color:black;
+    height:50px;
+    display:flex;
+    align-items:senter;
+    justify-content:center;
+    
+}
+.nevigation-bar-text{
+    color:white;
+    font-family:verdana;
+    font-weight:bold;
+}
+.slideshow{
+    display:flex;
+    align-items:senter;
+    justify-content:center;
+}

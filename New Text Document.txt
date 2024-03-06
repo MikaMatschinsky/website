@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p style="font-size:180px;color:yellow;margin-top:20%;margin-left:35%">  WIN </p>
+<br>
+<button><a href='homepage.html' style='font-size:25px'>back to menu </a></button>
+<button style='margin-left:75%'><a style='font-size:25px'>Next Level </a></button>
+</body>
+</html>
